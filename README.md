@@ -14,6 +14,4 @@ This project predicts stock movements based on sentiment analysis of social medi
 - Libraries: 
   - `praw`, `nltk`, `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
+
